@@ -1,6 +1,6 @@
 # References
 
-The repository preserves the references actually used in the submitted report / final presentation.
+The repository preserves the references actually used in the conference presentation materials.
 
 ## Roadmap / Industry Background
 
