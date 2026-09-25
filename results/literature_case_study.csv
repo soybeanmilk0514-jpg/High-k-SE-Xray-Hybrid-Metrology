@@ -1,0 +1,3 @@
+evidence_type,model,floating_parameters,MSE,extracted_value_nm,reference_method,reference_value_nm,project_use
+published_literature_case_study,unconstrained_optical_model,11,0.163084,11.4,STEM,15.11,Illustrates that low MSE alone may select a physically inaccurate solution
+published_literature_case_study,xray_constrained_hybrid_model,9,0.428461,14.09,STEM,15.11,Illustrates how independent X-ray constraints can improve physical agreement
