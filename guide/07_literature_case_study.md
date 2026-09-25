@@ -2,7 +2,7 @@
 
 ## Why This Example Was Used
 
-학술대회 특별세션 발표에서는 2025 Journal of Applied Physics의 hybrid metrology 연구를 사용해 fixed-constraint concept의 효과를 정량적으로 설명했다.
+2026년도 반도체공학회 하계종합학술대회의 숭실대학교 차세대반도체학과 특별세션 1 발표에서는 2025 Journal of Applied Physics의 hybrid metrology 연구를 사용해 fixed-constraint concept의 효과를 정량적으로 설명했다.
 
 이 논문은 High-k ALD film 자체를 직접 측정한 우리의 실험이 아니라, **optical + X-ray hybrid modeling에서 independent constraint가 inverse solution에 미치는 영향을 보여주는 supporting case study**로 사용됐다.
 
