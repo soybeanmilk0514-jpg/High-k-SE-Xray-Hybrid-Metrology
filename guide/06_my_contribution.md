@@ -4,7 +4,7 @@
 
 원본 프로젝트 보고서에서 내 담당 파트는 **“SE+XRR을 융합한 High-k 박막 분석”**으로 구분되어 있다.
 
-최종 발표에서는 후반부 hybrid-metrology section을 맡아 다음 흐름을 설명했다.
+반도체학술대회 차세대반도체학과 특별세션 발표에서는 후반부 hybrid-metrology section을 맡아 다음 흐름을 설명했다.
 
 ## What I Analyzed & Presented
 
