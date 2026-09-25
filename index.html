@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>High-k Thin-Film Characterization with SE–X-ray Hybrid Metrology</title>
+<meta name="description" content="Literature-based semiconductor metrology study proposing X-ray-constrained SE inverse modeling for ALD High-k thin films.">
+<link rel="stylesheet" href="assets/css/project.css">
+</head>
+<body>
+<header class="top">
+  <div class="topin">
+    <div class="brand">Subin Joo · Semiconductor Portfolio</div>
+    <nav class="nav">
+      <a href="./README.md">README</a>
+      <a href="./guide/00_navigation.md">GUIDE</a>
+      <a href="https://github.com/soybeanmilk0514-jpg/High-k-SE-Xray-Hybrid-Metrology">GITHUB</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="hero-in">
+    <div class="eyebrow">Metrology · ALD High-k · SE · X-ray · 2026.05–06</div>
+    <h1>High-k Thin-Film Characterization<br>with SE–X-ray Hybrid Metrology</h1>
+    <p class="summary">
+      ALD 기반 High-k 초박막에서 SE 역모델링의 parameter correlation 문제를 분석하고,
+      X-ray 구조 정보를 fixed constraint로 feed-forward하여 해의 모호성을 줄이는 hybrid metrology workflow를 제안한 프로젝트입니다.
+    </p>
+    <div class="meta">
+      <div><span>Course</span><strong>반도체공정과화학분석</strong></div>
+      <div><span>Target</span><strong>ALD High-k ultrathin film</strong></div>
+      <div><span>Core issue</span><strong>Inverse-model ambiguity</strong></div>
+      <div><span>My section</span><strong>Hybrid integration</strong></div>
+    </div>
+    <div class="actions">
+      <a class="btn primary" href="./guide/06_my_contribution.md">My Contribution</a>
+      <a class="btn" href="./guide/05_hybrid_feedforward.md">Hybrid Workflow</a>
+      <a class="btn" href="./results/">Evidence Table</a>
+      <a class="btn" href="./references/">References</a>
+    </div>
+  </div>
+</section>
+
+<main>
+<section class="visual">
+  <img src="./figures/project-flow.svg" alt="Hybrid metrology project flow">
+  <div class="card">
+    <h2>Project summary</h2>
+    <p><b>Problem:</b> ultrathin-film parameter correlation</p>
+    <p><b>SE:</b> optical inverse modeling</p>
+    <p><b>X-ray:</b> independent structural information</p>
+    <p><b>Strategy:</b> fixed-constraint feed-forward</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="label">01 · WHY THIS PROBLEM</div>
+  <h2>초박막에서는 계면과 모델의 모호성이 함께 커진다</h2>
+  <p>
+    프로젝트는 advanced-node High-k dielectric에서 film thickness뿐 아니라 interfacial layer,
+    density non-uniformity, and roughness가 중요한 공정 변수가 된다는 문제에서 출발했습니다.
+    ALD 초기 성장의 비균일성과 SiOx interfacial layer 형성까지 고려하면, 단일 평균값만으로 film quality를 설명하기 어렵습니다.
+  </p>
+</section>
+
+<section class="section">
+  <div class="label">02 · SE LIMITATION</div>
+  <h2>Low MSE가 반드시 physically correct solution은 아니다</h2>
+  <div class="visual">
+    <div>
+      <p>
+        SE는 Ψ와 Δ를 측정한 뒤 virtual optical model을 fitting합니다.
+        초박막에서는 thickness, refractive index, roughness가 유사한 optical response를 만들 수 있어
+        parameter correlation이 발생할 수 있습니다.
+      </p>
+      <p class="note">
+        핵심은 fitting error 자체보다, 외부 physical constraint가 없는 inverse solution의 uniqueness 문제입니다.
+      </p>
+    </div>
+    <img src="./figures/correlation-concept.svg" alt="Conceptual correlation ellipse">
+  </div>
+</section>
+
+<section class="section">
+  <div class="label">03 · HYBRID FEED-FORWARD</div>
+  <h2>X-ray 구조 정보를 SE inverse model의 fixed constraint로 사용</h2>
+  <div class="grid">
+    <div class="metric"><span>Step 1</span><strong>X-ray measurement</strong></div>
+    <div class="metric"><span>Step 2</span><strong>Structural parameter</strong></div>
+    <div class="metric"><span>Step 3</span><strong>Fixed constraint</strong></div>
+    <div class="metric"><span>Step 4</span><strong>Reduced ambiguity</strong></div>
+  </div>
+  <p>
+    프로젝트에서의 hybrid는 단순한 장비 결합이 아니라, 서로 다른 physics에서 얻은 정보를 모델 내부에서 연결하는
+    sensor-fusion / feed-forward 개념으로 정리했습니다.
+  </p>
+</section>
+
+<section class="section">
+  <div class="label">04 · MY CONTRIBUTION</div>
+  <h2>Hybrid modeling logic와 literature case-study interpretation 담당</h2>
+  <p>
+    내가 맡은 파트는 SE 단독 분석의 parameter correlation 문제에서 시작해,
+    X-ray-derived structure를 fixed constraint로 넣는 원리, floating-variable 감소,
+    published STEM comparison의 의미, 그리고 이 개념을 High-k density / roughness 분석으로 연결하는 후반부였습니다.
+  </p>
+  <a class="btn" href="./guide/06_my_contribution.md">Detailed contribution</a>
+</section>
+
+<section class="section">
+  <div class="label">05 · PUBLISHED CASE STUDY</div>
+  <h2>Lower fitting error did not mean better physical agreement</h2>
+  <div class="figure">
+    <img src="./figures/case-study-comparison.svg" alt="Published hybrid metrology case study comparison">
+    <div class="credit">Values reproduced as a portfolio summary from the published case study used in the course presentation; not original team measurement.</div>
+  </div>
+  <div class="table">
+    <table>
+      <thead><tr><th>Model</th><th>Floating parameters</th><th>MSE</th><th>Extracted value</th><th>STEM reference</th></tr></thead>
+      <tbody>
+        <tr><td>Unconstrained optical</td><td>11</td><td>0.163084</td><td>11.4 nm</td><td>15.11 nm</td></tr>
+        <tr><td>X-ray constrained hybrid</td><td>9</td><td>0.428461</td><td>14.09 nm</td><td>15.11 nm</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section">
+  <div class="label">06 · APPLICATION TO HIGH-k</div>
+  <h2>Expected use: density profile and interface-roughness interpretation</h2>
+  <p>
+    프로젝트는 XRR/X-ray 계측이 제공하는 structural information을 SE 모델의 prior 또는 fixed parameter로 사용해,
+    thickness–n correlation과 roughness ambiguity를 줄이는 방향을 제안했습니다.
+  </p>
+  <p class="note">
+    이 프로젝트에서는 실제 High-k wafer를 SE/XRR로 직접 측정하지 않았기 때문에,
+    자체 정확도 향상률이나 original metrology result를 주장하지 않습니다.
+  </p>
+</section>
+
+<section class="section">
+  <div class="label">07 · RESOURCES</div>
+  <h2>Documentation and evidence</h2>
+  <div class="resource">
+    <a href="./guide/00_navigation.md"><strong>Project Guide</strong><span>문제 정의부터 hybrid workflow와 limitations까지</span></a>
+    <a href="./results/literature_case_study.csv"><strong>Literature Case Study</strong><span>11-variable / 9-variable comparison</span></a>
+    <a href="./source/README.md"><strong>Workflow Scope</strong><span>왜 실행 코드가 없는지와 공개 범위</span></a>
+    <a href="./report/README.md"><strong>Original Materials</strong><span>보고서·PPT·발표대본 기반 provenance</span></a>
+  </div>
+</section>
+</main>
+
+<footer class="foot">
+2026 Semiconductor Process & Chemical Analysis Coursework Portfolio · Subin Joo
+</footer>
+</body>
+</html>
