@@ -14,7 +14,9 @@ ALD 기반 High-k 초박막에서 SE 단독 역모델링으로는 분리하기 �
 6. published hybrid-metrology case study로 fixed vs floating parameter 차이 해석
 7. High-k density / interface roughness 정량화 관점으로 적용 가능성 정리
 
-## Project Type
+## Presentation Context
+
+2026년 7월 부산 아난티에서 열린 **반도체학술대회 차세대반도체학과 특별세션**에서 발표한 팀 프로젝트다.
 
 본 프로젝트는 직접 웨이퍼를 측정한 실험 프로젝트가 아니라, 문헌과 계측 원리를 바탕으로 한 **semiconductor metrology analysis & proposal project**다.
 
