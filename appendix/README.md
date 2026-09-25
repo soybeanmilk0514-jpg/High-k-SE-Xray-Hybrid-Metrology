@@ -2,7 +2,7 @@
 
 ## Team Project
 
-The final presentation lists three team members. This personal repository focuses on my documented section while preserving the shared project context.
+The conference presentation lists three team members. This personal repository focuses on my documented section while preserving the shared project context.
 
 ## My Documented Section
 
@@ -32,7 +32,7 @@ This project contains the first two categories, but not the third.
 
 ## Important Distinction
 
-The final presentation connects High-k XRR/SE concepts with a later published XRD/XRF + optical hybrid case study.
+The conference presentation connects High-k XRR/SE concepts with a later published XRD/XRF + optical hybrid case study.
 
 The physical principle being transferred is **independent structural constraint → reduced optical-model ambiguity**.
 
