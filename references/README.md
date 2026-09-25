@@ -1,6 +1,6 @@
 # References
 
-The repository preserves the references actually used in the conference presentation materials.
+The repository preserves the references actually used in the 2026년도 반도체공학회 하계종합학술대회 · 숭실대학교 차세대반도체학과 특별세션 1 presentation materials.
 
 ## Roadmap / Industry Background
 
