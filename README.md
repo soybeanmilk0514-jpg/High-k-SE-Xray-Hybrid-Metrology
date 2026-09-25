@@ -1,6 +1,6 @@
 # High-k Thin-Film Characterization with SE–X-ray Hybrid Metrology
 
-2026년 5–6월 **반도체공정과화학분석** 교과목에서 수행한 팀 프로젝트입니다.
+2026년 7월 부산 아난티에서 열린 **반도체학술대회 차세대반도체학과 특별세션에서 발표한 팀 프로젝트**입니다.
 
 ALD 기반 High-k 초박막이 수 nm 이하로 얇아질수록 **두께, 밀도, 계면 거칠기, 계면층**이 서로 강하게 결합되어 단일 계측 결과만으로는 고유한 해를 얻기 어려워진다는 문제에서 출발했습니다.
 
@@ -14,8 +14,9 @@ ALD 기반 High-k 초박막이 수 nm 이하로 얇아질수록 **두께, 밀도
 
 | Item | Summary |
 |---|---|
-| Course | Semiconductor Process & Chemical Analysis |
-| Period | 2026.05–06 |
+| Presentation | 반도체학술대회 차세대반도체학과 특별세션 |
+| Date | 2026.07 |
+| Venue | 부산 아난티 |
 | Target | ALD-based High-k ultrathin films |
 | Main problem | SE inverse-model parameter correlation |
 | Structural metrology | XRR / X-ray based measurement |
