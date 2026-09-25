@@ -1,6 +1,6 @@
 # Conference Presentation Materials
 
-This portfolio was reconstructed from three files used to prepare the 2026년 7월 부산 아난티 반도체학술대회 차세대반도체학과 특별세션 presentation:
+This portfolio was reconstructed from three files used to prepare the 2026년도 반도체공학회 하계종합학술대회 presentation in "숭실대학교 차세대반도체학과 특별세션 1" on 2026.07.15 at 아난티 앳 부산 코브:
 
 1. **반공화 프로젝트_보고서.pdf**
    - 27-page working/final report
