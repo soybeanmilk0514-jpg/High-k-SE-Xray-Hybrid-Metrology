@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<rect width="900" height="520" fill="#fff"/>
+<style>.t{font:700 28px Arial,sans-serif;fill:#172033}.l{font:17px Arial,sans-serif;fill:#566174}.axis{stroke:#344054;stroke-width:2}.red{fill:none;stroke:#d73a49;stroke-width:5}.green{fill:none;stroke:#2da44e;stroke-width:5}.dash{stroke:#98a2b3;stroke-dasharray:7 7}.lab{font:700 19px Arial,sans-serif;fill:#172033}</style>
+<text class="t" x="55" y="55">Conceptual parameter-correlation space</text>
+<line class="axis" x1="120" y1="410" x2="770" y2="410"/><line class="axis" x1="120" y1="410" x2="120" y2="105"/>
+<text class="l" x="690" y="450">Parameter 1 (e.g., thickness)</text><text class="l" x="18" y="115" transform="rotate(-90 18 115)">Parameter 2 (e.g., optical property)</text>
+<ellipse class="red" cx="420" cy="260" rx="250" ry="65" transform="rotate(-28 420 260)"/>
+<ellipse class="green" cx="420" cy="260" rx="72" ry="58"/>
+<line class="dash" x1="420" y1="100" x2="420" y2="410"/><line class="dash" x1="120" y1="260" x2="770" y2="260"/>
+<text class="lab" x="600" y="170">SE-only: correlated solution region</text>
+<text class="lab" x="480" y="320">X-ray constrained: reduced freedom</text>
+<text class="l" x="55" y="490">Portfolio concept diagram — not a reproduction of the published figure.</text>
+</svg>
