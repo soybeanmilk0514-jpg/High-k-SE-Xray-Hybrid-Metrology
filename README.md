@@ -18,6 +18,8 @@ ALD 기반 High-k 초박막이 수 nm 이하로 얇아질수록 **두께, 밀도
 | Session | 숭실대학교 차세대반도체학과 특별세션 1 |
 | Presentation date | 2026.07.15 |
 | Venue | 아난티 앳 부산 코브 |
+| Presentation title | SE-X-ray Hybrid Metrology를 활용한 ALD 기반 High-k 박막의 미세 밀도 및 계면 거칠기 정량화 |
+| Role | 공동 발표 |
 | Target | ALD-based High-k ultrathin films |
 | Main problem | SE inverse-model parameter correlation |
 | Structural metrology | XRR / X-ray based measurement |
