@@ -1,0 +1,7 @@
+claim,status,evidence_scope
+SE ultrathin inverse modeling can suffer parameter correlation,source-supported,Project report and cited literature
+X-ray structural information can be used as a fixed constraint in optical inverse modeling,source-supported,Published hybrid-metrology case study used in presentation
+11-variable model had lower MSE but was farther from STEM reference,source-supported,Published case-study values used in final presentation
+9-variable constrained model was closer to STEM reference,source-supported,Published case-study values used in final presentation
+Hybrid SE-X-ray can improve High-k density and roughness quantification,project_proposal,Proposed application based on complementary metrology principles
+Our team experimentally measured ALD High-k using SE-XRR,false,No original wafer measurement was performed in the submitted project
