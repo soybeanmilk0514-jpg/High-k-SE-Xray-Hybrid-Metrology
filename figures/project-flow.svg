@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<rect width="1200" height="320" fill="#ffffff"/>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#5b6577"/></marker></defs>
+<style>.b{fill:#f7f9fc;stroke:#d73a49;stroke-width:3}.h{font:700 24px Arial,sans-serif;fill:#172033;text-anchor:middle}.s{font:17px Arial,sans-serif;fill:#5b6577;text-anchor:middle}.l{stroke:#5b6577;stroke-width:4;marker-end:url(#a)}</style>
+<rect class="b" rx="18" x="30" y="85" width="230" height="145"/><text class="h" x="145" y="130">High-k Challenge</text><text class="s" x="145" y="165">ultrathin interface</text><text class="s" x="145" y="192">density / roughness</text>
+<line class="l" x1="275" y1="158" x2="355" y2="158"/>
+<rect class="b" rx="18" x="370" y="85" width="220" height="145"/><text class="h" x="480" y="130">SE</text><text class="s" x="480" y="165">inverse modeling</text><text class="s" x="480" y="192">parameter correlation</text>
+<line class="l" x1="605" y1="158" x2="685" y2="158"/>
+<rect class="b" rx="18" x="700" y="85" width="220" height="145"/><text class="h" x="810" y="130">X-ray Constraint</text><text class="s" x="810" y="165">independent structure</text><text class="s" x="810" y="192">fixed parameter</text>
+<line class="l" x1="935" y1="158" x2="1010" y2="158"/>
+<rect class="b" rx="18" x="1025" y="65" width="145" height="185"/><text class="h" x="1097" y="118">Hybrid</text><text class="s" x="1097" y="153">feed-forward</text><text class="s" x="1097" y="183">reduced</text><text class="s" x="1097" y="207">ambiguity</text>
+</svg>
