@@ -2,7 +2,7 @@
 
 ## Team Project
 
-The conference presentation lists three team members. This personal repository focuses on my documented section while preserving the shared project context.
+The 2026년도 반도체공학회 하계종합학술대회 presentation in "숭실대학교 차세대반도체학과 특별세션 1" lists three team members. This personal repository focuses on my documented section while preserving the shared project context.
 
 ## My Documented Section
 
