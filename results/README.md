@@ -2,7 +2,7 @@
 
 This project did **not** generate original SE/XRR wafer-measurement data.
 
-The CSV files in this directory summarize **published case-study values used in the course presentation** so that the evidence remains clearly separated from original experimental results.
+The CSV files in this directory summarize **published case-study values used in the conference presentation** so that the evidence remains clearly separated from original experimental results.
 
 ## Files
 
