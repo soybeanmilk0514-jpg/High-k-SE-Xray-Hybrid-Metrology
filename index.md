@@ -1,5 +1,7 @@
 # High-k Thin-Film Characterization with SE–X-ray Hybrid Metrology
 
+**Presented at:** 2026년 7월 부산 아난티 · 반도체학술대회 차세대반도체학과 특별세션
+
 ## Overview
 
 ALD 기반 High-k 초박막에서 단일 SE inverse modeling이 가지는 parameter-correlation 문제를 분석하고, X-ray-derived structural information을 fixed constraint로 feed-forward하는 hybrid metrology concept을 제안한 프로젝트입니다.
@@ -24,7 +26,7 @@ ALD 기반 High-k 초박막에서 단일 SE inverse modeling이 가지는 parame
 
 ## Published Case Study
 
-The course presentation used a published hybrid-metrology example:
+The conference presentation used a published hybrid-metrology example:
 
 | Model | Floating parameters | MSE | Extracted value | STEM |
 |---|---:|---:|---:|---:|
