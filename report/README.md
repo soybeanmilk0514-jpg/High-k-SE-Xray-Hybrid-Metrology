@@ -1,13 +1,13 @@
-# Original Project Materials
+# Conference Presentation Materials
 
-This portfolio was reconstructed from three submitted project files:
+This portfolio was reconstructed from three files used to prepare the 2026년 7월 부산 아난티 반도체학술대회 차세대반도체학과 특별세션 presentation:
 
 1. **반공화 프로젝트_보고서.pdf**
    - 27-page working/final report
    - project logic, references, assigned sections, technical interpretation
 
 2. **반공화_최종 ppt.pdf**
-   - 22-page final presentation
+   - 22-page conference presentation
    - final storyline and visuals
 
 3. **반공화_cpc 대본.pdf**
@@ -18,5 +18,5 @@ This portfolio was reconstructed from three submitted project files:
 
 - No original experiment is claimed where the submitted files contain only literature evidence.
 - Numerical values from cited papers are labeled as published case-study values.
-- The project terminology and storyline follow the submitted report and presentation.
+- The project terminology and storyline follow the presentation materials.
 - Third-party figures from papers and equipment vendors are not copied into this repository; portfolio-generated diagrams are used instead.
